@@ -102,6 +102,6 @@ inline code `{code: 0}`
 
 [这是我的博客地址](http://qikaile.tk)
 
-[通过引号设置引用名](http://prod.zkqiang.cn/wxeditor "这是自定义的引用名")
+[通过引号设置引用名](https://wx.tjys.ml/ "这是自定义的引用名")
 
 [本项目是 Fork 自 Lyric 原项目后的二次开发，感谢他的贡献！](https://github.com/lyricat/wechat-format "原项目代码库")
